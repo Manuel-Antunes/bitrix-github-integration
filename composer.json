@@ -1,0 +1,17 @@
+{
+  "name": "manuel/bitrix-github-integration",
+  "authors": [
+    {
+      "name": "Manuel-Antunes",
+      "email": "nerdbroz2@gmail.com"
+    }
+  ],
+  "require": {
+    "mesilov/bitrix24-php-sdk": "^1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "GithubBitrixIntegration": "src"
+    }
+  }
+}
